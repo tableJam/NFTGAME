@@ -1,6 +1,6 @@
 # Create your first NFT game.
 
-![](public/ETH-game-banner.png)
+![](/packages/client/public/ETH-game-banner.png)
 
 このコースを始めるには、下記のステップを実行してください。
 
@@ -8,9 +8,9 @@
 
 2. クローンしたレポジトリをあなたのローカル環境にダウンロードしましょう。
 
-3. ターミナルを開き、ディレクトリのルートで `npm install` を実行します。
+3. ターミナルを開き、ディレクトリのルートで `yarn install` を実行します。
 
-4. `npm run start` を実行してプロジェクトを開始します。
+4. `yarn client start` を実行してプロジェクトを開始します。
 
 5. コーディングを始めましょう。
 
